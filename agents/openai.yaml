@@ -1,0 +1,4 @@
+interface:
+  display_name: "通用外贸获客与开发信"
+  short_description: "研究海外企业客户，查重并准备开发信与客户表"
+  default_prompt: "使用 $auto-b2b-outreach 根据我的产品和目标市场研究海外企业客户，完成只读查重并准备开发信和客户资料；默认只起草。"
